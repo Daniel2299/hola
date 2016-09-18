@@ -7,10 +7,10 @@
 		
 	<!-- versionCode is optional and Android only -->
 	
-	<name>Aplicacion uno DAMALUMNOS</name>
+	<name>Actividad 2</name>
 	
 	<description>
-		Aplicacion que muestra los DATOS del alumno
+		Aplicacion
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0" />
