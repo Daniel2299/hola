@@ -7,10 +7,10 @@
 		
 	<!-- versionCode is optional and Android only -->
 	
-	<name>Clima</name>
+	<name>Actividad 2</name>
 	
 	<description>
-		Aplicacion para dar informacion detallada sobre el clima en atlixco
+		Aplicacion
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0" />
